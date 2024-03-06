@@ -1,0 +1,10 @@
+baseurl: ""
+class_name: "Desenvolvimento de Aplicações Web"
+class_year: "2024"
+repository_name: "students"
+
+exclude:
+  - vendor
+  - tests
+  - node_modules
+  - package*.json
